@@ -86,7 +86,7 @@ nav {
 }
 
 .container1 img {
-  width: 200px;
+  width: 250px;
   height: auto;
   border-radius: 50%;
   border: 4px solid gray;
@@ -315,8 +315,8 @@ label,
   }
 
   .container4 img {
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
   }
 
   .container5 {

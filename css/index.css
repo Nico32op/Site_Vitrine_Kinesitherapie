@@ -166,8 +166,8 @@ nav {
 
 .container4 img {
   /*images de la parties Kiné*/
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: auto;
   justify-content: center;
   display: inline-block;
   border-radius: 50%;
